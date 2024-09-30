@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capapresentacionadmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capapresentacionadmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capapresentacionadmin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capapresentacionadmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T22:00:49.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-30T14:53:43.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "CapaPresentacionAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-30T14:52:46.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CapaPresentacionAdmin\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T14:50:26.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "RelativeToolTip": "CapaPresentacionAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-30T14:49:33.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
