@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EKWY9uKrfdw=",
+  "dgSpecHash": "hG/7NjYq2Uc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Carlos Aragón\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Carlos Aragón\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
     "C:\\Users\\Carlos Aragón\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Carlos Aragón\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Carlos Aragón\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

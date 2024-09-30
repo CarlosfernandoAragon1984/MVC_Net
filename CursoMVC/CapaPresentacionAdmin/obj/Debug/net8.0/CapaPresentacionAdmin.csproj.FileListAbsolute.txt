@@ -223,3 +223,5 @@ C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Deb
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\obj\Debug\net8.0\CapaPresentacionAdmin.csproj.AssemblyReference.cache
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\obj\Debug\net8.0\CapaPres.0D5CB2CD.Up2Date
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\obj\Debug\net8.0\CapaPresentacionAdmin.sourcelink.json
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\libman.json
