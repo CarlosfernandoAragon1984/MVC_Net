@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capaentidad\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capaentidad\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B277D31-CBA2-49E4-B087-3E3E474EC7F1}|CapaEntidad\\CapaEntidad.csproj|solutionrelative:capaentidad\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3D89519-4D03-4E2D-9983-75B3F45BC2FF}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|c:\\users\\carlos arag\u00F3n\\desktop\\mvc . net\\cursomvc\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Producto.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Producto.cs",
-              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Producto.cs",
-              "RelativeToolTip": "CapaEntidad\\Producto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:29:49.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Carrito.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Carrito.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Carrito.cs",
-              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Carrito.cs",
-              "RelativeToolTip": "CapaEntidad\\Carrito.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Usuario.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Usuario.cs",
+              "RelativeToolTip": "CapaEntidad\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:28:11.149Z",
+              "WhenOpened": "2024-10-01T12:29:44.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Cliente.cs",
-              "RelativeDocumentMoniker": "CapaEntidad\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Cliente.cs",
-              "RelativeToolTip": "CapaEntidad\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\DetalleVenta.cs",
+              "RelativeToolTip": "CapaEntidad\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:25:13.002Z",
+              "WhenOpened": "2024-10-01T12:21:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidad\\Venta.cs",
+              "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaEntidad\\Venta.cs",
+              "RelativeToolTip": "CapaEntidad\\Venta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T12:13:58.975Z",
               "EditorCaption": ""
             },
             {
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Carlos Arag\u00F3n\\Desktop\\MVC . Net\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-25T22:00:49.703Z",
               "EditorCaption": ""

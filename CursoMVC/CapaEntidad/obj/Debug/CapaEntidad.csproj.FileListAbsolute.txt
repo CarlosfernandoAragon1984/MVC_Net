@@ -1,0 +1,2 @@
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
