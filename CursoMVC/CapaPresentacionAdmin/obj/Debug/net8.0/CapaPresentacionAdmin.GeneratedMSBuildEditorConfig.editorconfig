@@ -26,20 +26,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Home/Contacto.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Home/Usuarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc3Vhcmlvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Home/Test.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
+[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Mantenedor/Categoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxDYXRlZ29yaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Mantenedor/Marca.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxNYXJjYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Mantenedor/Producto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuZWRvclxQcm9kdWN0by5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Carlos Aragón/Desktop/MVC . Net/CursoMVC/CapaPresentacionAdmin/Views/Shared/Error.cshtml]

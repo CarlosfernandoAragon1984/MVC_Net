@@ -17,19 +17,14 @@ namespace CapaPresentacionAdmin.Controllers
         {
             return View();
         }
+        public IActionResult Usuarios()
+        {
+            return View();
+        }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-        public IActionResult Test()
-        {
-            return View();
-        }
-        public IActionResult Contacto()
-        {
-            return View();
-        }
+
+
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
