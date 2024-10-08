@@ -11,7 +11,8 @@ namespace CapaNegocio
 {
     public class UsuarioNegocio
     {
-       IListarUsuario lista = new ListarUsuario();
-        public void GetAllUsuario() { lista.Listar(); }
+
+        private readonly IListarUsuario _lista;
+        public void GetAllUsuario() { _lista.Listar(); }
     }
 }

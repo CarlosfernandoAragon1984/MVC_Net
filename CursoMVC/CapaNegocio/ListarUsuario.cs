@@ -17,7 +17,9 @@ namespace CapaNegocio
             Conexion datos = new Conexion();
             try
             {
-                datos.SetProsedimiento("spLista_Usurio");
+                //datos.SetProsedimiento("spLista_Usurio");
+                string consulta = "Select IdUsuario,Nombres,Apellidos,Correo,Clave,Restablecer,Activo from USUARIO";
+                datos.SetConsulta(consulta);
                 // datos.SetConsulta(consulta);
                 datos.EjecutarLectura();
                 while (datos.Lector.Read())

@@ -1,2 +1,6 @@
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb

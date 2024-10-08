@@ -1,0 +1,6 @@
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaDatos\obj\Debug\CapaDatos.pdb

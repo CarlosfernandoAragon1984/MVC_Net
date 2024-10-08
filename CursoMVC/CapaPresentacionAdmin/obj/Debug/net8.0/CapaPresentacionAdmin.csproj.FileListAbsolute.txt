@@ -225,3 +225,9 @@ C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\obj\Deb
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\obj\Debug\net8.0\CapaPres.0D5CB2CD.Up2Date
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\obj\Debug\net8.0\CapaPresentacionAdmin.sourcelink.json
 C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\libman.json
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\CapaDatos.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\CapaEntidad.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\CapaNegocio.dll
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\CapaEntidad.pdb
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\CapaNegocio.pdb
+C:\Users\Carlos Aragón\Desktop\MVC . Net\CursoMVC\CapaPresentacionAdmin\bin\Debug\net8.0\CapaDatos.pdb
